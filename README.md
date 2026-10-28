@@ -1,7 +1,8 @@
-## Hi there 👋
-ESTE ES MI PRIMER COMMIT
-Este es el 2do cambio sin hacer push
+## Hi i'm Carlota 👋
 
+With a background in Computer Engineering and Business Administration, I'm currently expanding my knowledge in AI, Big Data & Cloud Computing.
+
+Curious about what's next! 🚀
 <!--
 **carlotamf/carlotamf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
